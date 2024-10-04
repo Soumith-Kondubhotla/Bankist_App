@@ -7,3 +7,9 @@ Key Features:
 4. Transaction History: Users can view their transaction history, which is sorted by date and type (deposits and withdrawals). Dates are displayed in a user-friendly format, and amounts are shown in the user’s local currency.
 5. Real-Time Balance & Summary: The app dynamically calculates and displays the user’s balance along with a summary of income, expenses, and interest earned.
 6. Sorting & Timers: The transaction history can be sorted, and a logout timer ensures users are automatically logged out after a period of inactivity for security purposes.
+
+The logins for each user is as follows:
+1. user : js, pin: 1111,
+2. user: jd, pin: 2222,
+3. user: stw, pin: 3333,
+4. user: ss, pin : 4444.
